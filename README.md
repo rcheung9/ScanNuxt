@@ -1,4 +1,4 @@
-# limsml.app
+# scan.app
 
 > My majestic Nuxt.js project
 
